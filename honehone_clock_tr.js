@@ -1,7 +1,8 @@
 /******************************************************************************
 	初期設定
 ******************************************************************************/
-var swfUrl = "http://chabudai.sakura.ne.jp/blogparts/honehoneclock/honehone_clock_tr.swf";
+//var swfUrl = "http://chabudai.sakura.ne.jp/blogparts/honehoneclock/honehone_clock_tr.swf";
+var swfUrl = "https://files.cnblogs.com/files/rainmote/honehone_clock_tr.swf"
 
 var swfTitle = "honehoneclock";
 
